@@ -1,0 +1,32 @@
+[
+  {
+    "id": "6047c1dad6f01d4a88c968a0",
+    "permissions": [
+      "view subscriptions",
+      "create subscriptions",
+      "delete subscriptions",
+      "update subscriptions",
+      "update movies",
+      "view movies",
+      "create movies",
+      "delete movies"
+    ]
+  },
+  {
+    "id": "6049dd9fa284c1c3e2f4cd7f",
+    "permissions": [
+      "view movies",
+      "create movies",
+      "delete movies"
+    ]
+  },
+  {
+    "id": "6050a14efc532e25248a2856",
+    "permissions": [
+      "view movies",
+      "create movies",
+      "delete movies",
+      "update movies"
+    ]
+  }
+]
